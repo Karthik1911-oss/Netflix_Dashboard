@@ -74,7 +74,7 @@ This project aims to solve these challenges by transforming raw data into meanin
 ---
 
 ## 🖼️ Dashboard Preview (Download)
-[Click here to download the dashboard image](image.png)
+[Click here to download the dashboard image](netflix_analyzed_data.pbix)
 
 ---
 
